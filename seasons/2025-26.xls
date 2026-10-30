@@ -8,7 +8,7 @@
     <o:DocumentProperties>
      <o:Created>2026-10-27T20:36:51</o:Created>
      <o:LastAuthor>Tomi644</o:LastAuthor>
-     <o:LastSaved>2026-10-27T20:47:50</o:LastSaved>
+     <o:LastSaved>2026-10-28T12:18:47</o:LastSaved>
     </o:DocumentProperties>
     <o:CustomDocumentProperties>
      <o:ICV dt:dt="string">E0E31940C06C4DCBB4FB866ADFD7CAC4_12</o:ICV>
@@ -42,10 +42,10 @@ br
 .font1
 	{color:#000000;
 	font-size:11.0pt;
-	font-weight:700;
+	font-weight:400;
 	font-style:normal;
 	text-decoration:none;
-	font-family:"Calibri";
+	font-family:"Arial";
 	mso-generic-font-family:auto;
 	mso-font-charset:134;}
 .font2
@@ -54,7 +54,7 @@ br
 	font-weight:700;
 	font-style:normal;
 	text-decoration:none;
-	font-family:"Arial Unicode MS";
+	font-family:"Arial";
 	mso-generic-font-family:auto;
 	mso-font-charset:134;}
 .font3
@@ -63,7 +63,7 @@ br
 	font-weight:400;
 	font-style:normal;
 	text-decoration:none;
-	font-family:"Arial Unicode MS";
+	font-family:"Arial";
 	mso-generic-font-family:auto;
 	mso-font-charset:134;}
 .font4
@@ -72,7 +72,7 @@ br
 	font-weight:700;
 	font-style:normal;
 	text-decoration:none;
-	font-family:"Arial Unicode MS";
+	font-family:"Arial";
 	mso-generic-font-family:auto;
 	mso-font-charset:134;}
 .font5
@@ -81,7 +81,7 @@ br
 	font-weight:700;
 	font-style:normal;
 	text-decoration:none;
-	font-family:"Arial Unicode MS";
+	font-family:"Arial";
 	mso-generic-font-family:auto;
 	mso-font-charset:134;}
 .font6
@@ -90,10 +90,28 @@ br
 	font-weight:700;
 	font-style:normal;
 	text-decoration:none;
-	font-family:"Arial Unicode MS";
+	font-family:"Arial";
 	mso-generic-font-family:auto;
 	mso-font-charset:134;}
 .font7
+	{color:#000000;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Calibri";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font8
+	{color:#000000;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Arial Unicode MS";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font9
 	{color:#0000FF;
 	font-size:11.0pt;
 	font-weight:400;
@@ -103,7 +121,7 @@ br
 	font-family:"Calibri";
 	mso-generic-font-family:auto;
 	mso-font-charset:134;}
-.font8
+.font10
 	{color:#800080;
 	font-size:11.0pt;
 	font-weight:400;
@@ -113,7 +131,7 @@ br
 	font-family:"Calibri";
 	mso-generic-font-family:auto;
 	mso-font-charset:134;}
-.font9
+.font11
 	{color:#FF0000;
 	font-size:11.0pt;
 	font-weight:400;
@@ -122,7 +140,7 @@ br
 	font-family:"Calibri";
 	mso-generic-font-family:auto;
 	mso-font-charset:0;}
-.font10
+.font12
 	{color:#44546A;
 	font-size:18.0pt;
 	font-weight:700;
@@ -131,7 +149,7 @@ br
 	font-family:"Calibri";
 	mso-generic-font-family:auto;
 	mso-font-charset:134;}
-.font11
+.font13
 	{color:#7F7F7F;
 	font-size:11.0pt;
 	font-weight:400;
@@ -140,7 +158,7 @@ br
 	font-family:"Calibri";
 	mso-generic-font-family:auto;
 	mso-font-charset:0;}
-.font12
+.font14
 	{color:#44546A;
 	font-size:15.0pt;
 	font-weight:700;
@@ -149,7 +167,7 @@ br
 	font-family:"Calibri";
 	mso-generic-font-family:auto;
 	mso-font-charset:134;}
-.font13
+.font15
 	{color:#44546A;
 	font-size:13.0pt;
 	font-weight:700;
@@ -158,7 +176,7 @@ br
 	font-family:"Calibri";
 	mso-generic-font-family:auto;
 	mso-font-charset:134;}
-.font14
+.font16
 	{color:#44546A;
 	font-size:11.0pt;
 	font-weight:700;
@@ -167,7 +185,7 @@ br
 	font-family:"Calibri";
 	mso-generic-font-family:auto;
 	mso-font-charset:134;}
-.font15
+.font17
 	{color:#3F3F76;
 	font-size:11.0pt;
 	font-weight:400;
@@ -176,26 +194,8 @@ br
 	font-family:"Calibri";
 	mso-generic-font-family:auto;
 	mso-font-charset:0;}
-.font16
-	{color:#3F3F3F;
-	font-size:11.0pt;
-	font-weight:700;
-	font-style:normal;
-	text-decoration:none;
-	font-family:"Calibri";
-	mso-generic-font-family:auto;
-	mso-font-charset:0;}
-.font17
-	{color:#FA7D00;
-	font-size:11.0pt;
-	font-weight:700;
-	font-style:normal;
-	text-decoration:none;
-	font-family:"Calibri";
-	mso-generic-font-family:auto;
-	mso-font-charset:0;}
 .font18
-	{color:#FFFFFF;
+	{color:#3F3F3F;
 	font-size:11.0pt;
 	font-weight:700;
 	font-style:normal;
@@ -206,14 +206,14 @@ br
 .font19
 	{color:#FA7D00;
 	font-size:11.0pt;
-	font-weight:400;
+	font-weight:700;
 	font-style:normal;
 	text-decoration:none;
 	font-family:"Calibri";
 	mso-generic-font-family:auto;
 	mso-font-charset:0;}
 .font20
-	{color:#000000;
+	{color:#FFFFFF;
 	font-size:11.0pt;
 	font-weight:700;
 	font-style:normal;
@@ -222,7 +222,7 @@ br
 	mso-generic-font-family:auto;
 	mso-font-charset:0;}
 .font21
-	{color:#006100;
+	{color:#FA7D00;
 	font-size:11.0pt;
 	font-weight:400;
 	font-style:normal;
@@ -231,16 +231,16 @@ br
 	mso-generic-font-family:auto;
 	mso-font-charset:0;}
 .font22
-	{color:#9C0006;
+	{color:#000000;
 	font-size:11.0pt;
-	font-weight:400;
+	font-weight:700;
 	font-style:normal;
 	text-decoration:none;
 	font-family:"Calibri";
 	mso-generic-font-family:auto;
 	mso-font-charset:0;}
 .font23
-	{color:#9C6500;
+	{color:#006100;
 	font-size:11.0pt;
 	font-weight:400;
 	font-style:normal;
@@ -249,7 +249,7 @@ br
 	mso-generic-font-family:auto;
 	mso-font-charset:0;}
 .font24
-	{color:#FFFFFF;
+	{color:#9C0006;
 	font-size:11.0pt;
 	font-weight:400;
 	font-style:normal;
@@ -258,6 +258,24 @@ br
 	mso-generic-font-family:auto;
 	mso-font-charset:0;}
 .font25
+	{color:#9C6500;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Calibri";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font26
+	{color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Calibri";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font27
 	{color:#000000;
 	font-size:11.0pt;
 	font-weight:400;
@@ -272,15 +290,12 @@ br
 	vertical-align:middle;
 	white-space:nowrap;
 	mso-rotate:0;
-	mso-pattern:auto;
-	mso-background-source:auto;
 	color:#000000;
 	font-size:11.0pt;
 	font-weight:400;
 	font-style:normal;
 	text-decoration:none;
 	font-family:Calibri;
-	mso-generic-font-family:auto;
 	mso-font-charset:134;
 	border:none;
 	mso-protection:locked visible;
@@ -334,7 +349,6 @@ br
 	font-style:normal;
 	text-decoration:none;
 	font-family:Calibri;
-	mso-generic-font-family:auto;
 	mso-font-charset:0;
 	mso-style-name:"Warning Text";}
 .style25
@@ -344,7 +358,6 @@ br
 	font-style:normal;
 	text-decoration:none;
 	font-family:Calibri;
-	mso-generic-font-family:auto;
 	mso-font-charset:134;
 	mso-style-name:"Title";}
 .style26
@@ -354,7 +367,6 @@ br
 	font-style:italic;
 	text-decoration:none;
 	font-family:Calibri;
-	mso-generic-font-family:auto;
 	mso-font-charset:0;
 	mso-style-name:"Explanatory Text";}
 .style27
@@ -364,7 +376,6 @@ br
 	font-style:normal;
 	text-decoration:none;
 	font-family:Calibri;
-	mso-generic-font-family:auto;
 	mso-font-charset:134;
 	border-bottom:1.0pt solid #5B9BD5;
 	mso-style-name:"Heading 1";}
@@ -375,7 +386,6 @@ br
 	font-style:normal;
 	text-decoration:none;
 	font-family:Calibri;
-	mso-generic-font-family:auto;
 	mso-font-charset:134;
 	border-bottom:1.0pt solid #5B9BD5;
 	mso-style-name:"Heading 2";}
@@ -386,7 +396,6 @@ br
 	font-style:normal;
 	text-decoration:none;
 	font-family:Calibri;
-	mso-generic-font-family:auto;
 	mso-font-charset:134;
 	border-bottom:1.0pt solid #ACCCEA;
 	mso-style-name:"Heading 3";}
@@ -397,7 +406,6 @@ br
 	font-style:normal;
 	text-decoration:none;
 	font-family:Calibri;
-	mso-generic-font-family:auto;
 	mso-font-charset:134;
 	mso-style-name:"Heading 4";}
 .style31
@@ -409,7 +417,6 @@ br
 	font-style:normal;
 	text-decoration:none;
 	font-family:Calibri;
-	mso-generic-font-family:auto;
 	mso-font-charset:0;
 	border:.5pt solid #7F7F7F;
 	mso-style-name:"Input";}
@@ -422,7 +429,6 @@ br
 	font-style:normal;
 	text-decoration:none;
 	font-family:Calibri;
-	mso-generic-font-family:auto;
 	mso-font-charset:0;
 	border:.5pt solid #3F3F3F;
 	mso-style-name:"Output";}
@@ -435,7 +441,6 @@ br
 	font-style:normal;
 	text-decoration:none;
 	font-family:Calibri;
-	mso-generic-font-family:auto;
 	mso-font-charset:0;
 	border:.5pt solid #7F7F7F;
 	mso-style-name:"Calculation";}
@@ -448,7 +453,6 @@ br
 	font-style:normal;
 	text-decoration:none;
 	font-family:Calibri;
-	mso-generic-font-family:auto;
 	mso-font-charset:0;
 	border:2.0pt double #3F3F3F;
 	mso-style-name:"Check Cell";}
@@ -459,7 +463,6 @@ br
 	font-style:normal;
 	text-decoration:none;
 	font-family:Calibri;
-	mso-generic-font-family:auto;
 	mso-font-charset:0;
 	border-bottom:2.0pt double #FF8001;
 	mso-style-name:"Linked Cell";}
@@ -470,7 +473,6 @@ br
 	font-style:normal;
 	text-decoration:none;
 	font-family:Calibri;
-	mso-generic-font-family:auto;
 	mso-font-charset:0;
 	border-top:.5pt solid #5B9BD5;
 	border-bottom:2.0pt double #5B9BD5;
@@ -484,7 +486,6 @@ br
 	font-style:normal;
 	text-decoration:none;
 	font-family:Calibri;
-	mso-generic-font-family:auto;
 	mso-font-charset:0;
 	mso-style-name:"Good";}
 .style38
@@ -496,7 +497,6 @@ br
 	font-style:normal;
 	text-decoration:none;
 	font-family:Calibri;
-	mso-generic-font-family:auto;
 	mso-font-charset:0;
 	mso-style-name:"Bad";}
 .style39
@@ -508,7 +508,6 @@ br
 	font-style:normal;
 	text-decoration:none;
 	font-family:Calibri;
-	mso-generic-font-family:auto;
 	mso-font-charset:0;
 	mso-style-name:"Neutral";}
 .style40
@@ -520,7 +519,6 @@ br
 	font-style:normal;
 	text-decoration:none;
 	font-family:Calibri;
-	mso-generic-font-family:auto;
 	mso-font-charset:0;
 	mso-style-name:"Accent1";}
 .style41
@@ -532,7 +530,6 @@ br
 	font-style:normal;
 	text-decoration:none;
 	font-family:Calibri;
-	mso-generic-font-family:auto;
 	mso-font-charset:0;
 	mso-style-name:"20% - Accent1";}
 .style42
@@ -544,7 +541,6 @@ br
 	font-style:normal;
 	text-decoration:none;
 	font-family:Calibri;
-	mso-generic-font-family:auto;
 	mso-font-charset:0;
 	mso-style-name:"40% - Accent1";}
 .style43
@@ -556,7 +552,6 @@ br
 	font-style:normal;
 	text-decoration:none;
 	font-family:Calibri;
-	mso-generic-font-family:auto;
 	mso-font-charset:0;
 	mso-style-name:"60% - Accent1";}
 .style44
@@ -568,7 +563,6 @@ br
 	font-style:normal;
 	text-decoration:none;
 	font-family:Calibri;
-	mso-generic-font-family:auto;
 	mso-font-charset:0;
 	mso-style-name:"Accent2";}
 .style45
@@ -580,7 +574,6 @@ br
 	font-style:normal;
 	text-decoration:none;
 	font-family:Calibri;
-	mso-generic-font-family:auto;
 	mso-font-charset:0;
 	mso-style-name:"20% - Accent2";}
 .style46
@@ -592,7 +585,6 @@ br
 	font-style:normal;
 	text-decoration:none;
 	font-family:Calibri;
-	mso-generic-font-family:auto;
 	mso-font-charset:0;
 	mso-style-name:"40% - Accent2";}
 .style47
@@ -604,7 +596,6 @@ br
 	font-style:normal;
 	text-decoration:none;
 	font-family:Calibri;
-	mso-generic-font-family:auto;
 	mso-font-charset:0;
 	mso-style-name:"60% - Accent2";}
 .style48
@@ -616,7 +607,6 @@ br
 	font-style:normal;
 	text-decoration:none;
 	font-family:Calibri;
-	mso-generic-font-family:auto;
 	mso-font-charset:0;
 	mso-style-name:"Accent3";}
 .style49
@@ -628,7 +618,6 @@ br
 	font-style:normal;
 	text-decoration:none;
 	font-family:Calibri;
-	mso-generic-font-family:auto;
 	mso-font-charset:0;
 	mso-style-name:"20% - Accent3";}
 .style50
@@ -640,7 +629,6 @@ br
 	font-style:normal;
 	text-decoration:none;
 	font-family:Calibri;
-	mso-generic-font-family:auto;
 	mso-font-charset:0;
 	mso-style-name:"40% - Accent3";}
 .style51
@@ -652,7 +640,6 @@ br
 	font-style:normal;
 	text-decoration:none;
 	font-family:Calibri;
-	mso-generic-font-family:auto;
 	mso-font-charset:0;
 	mso-style-name:"60% - Accent3";}
 .style52
@@ -664,7 +651,6 @@ br
 	font-style:normal;
 	text-decoration:none;
 	font-family:Calibri;
-	mso-generic-font-family:auto;
 	mso-font-charset:0;
 	mso-style-name:"Accent4";}
 .style53
@@ -676,7 +662,6 @@ br
 	font-style:normal;
 	text-decoration:none;
 	font-family:Calibri;
-	mso-generic-font-family:auto;
 	mso-font-charset:0;
 	mso-style-name:"20% - Accent4";}
 .style54
@@ -688,7 +673,6 @@ br
 	font-style:normal;
 	text-decoration:none;
 	font-family:Calibri;
-	mso-generic-font-family:auto;
 	mso-font-charset:0;
 	mso-style-name:"40% - Accent4";}
 .style55
@@ -700,7 +684,6 @@ br
 	font-style:normal;
 	text-decoration:none;
 	font-family:Calibri;
-	mso-generic-font-family:auto;
 	mso-font-charset:0;
 	mso-style-name:"60% - Accent4";}
 .style56
@@ -712,7 +695,6 @@ br
 	font-style:normal;
 	text-decoration:none;
 	font-family:Calibri;
-	mso-generic-font-family:auto;
 	mso-font-charset:0;
 	mso-style-name:"Accent5";}
 .style57
@@ -724,7 +706,6 @@ br
 	font-style:normal;
 	text-decoration:none;
 	font-family:Calibri;
-	mso-generic-font-family:auto;
 	mso-font-charset:0;
 	mso-style-name:"20% - Accent5";}
 .style58
@@ -736,7 +717,6 @@ br
 	font-style:normal;
 	text-decoration:none;
 	font-family:Calibri;
-	mso-generic-font-family:auto;
 	mso-font-charset:0;
 	mso-style-name:"40% - Accent5";}
 .style59
@@ -748,7 +728,6 @@ br
 	font-style:normal;
 	text-decoration:none;
 	font-family:Calibri;
-	mso-generic-font-family:auto;
 	mso-font-charset:0;
 	mso-style-name:"60% - Accent5";}
 .style60
@@ -760,7 +739,6 @@ br
 	font-style:normal;
 	text-decoration:none;
 	font-family:Calibri;
-	mso-generic-font-family:auto;
 	mso-font-charset:0;
 	mso-style-name:"Accent6";}
 .style61
@@ -772,7 +750,6 @@ br
 	font-style:normal;
 	text-decoration:none;
 	font-family:Calibri;
-	mso-generic-font-family:auto;
 	mso-font-charset:0;
 	mso-style-name:"20% - Accent6";}
 .style62
@@ -784,7 +761,6 @@ br
 	font-style:normal;
 	text-decoration:none;
 	font-family:Calibri;
-	mso-generic-font-family:auto;
 	mso-font-charset:0;
 	mso-style-name:"40% - Accent6";}
 .style63
@@ -796,7 +772,6 @@ br
 	font-style:normal;
 	text-decoration:none;
 	font-family:Calibri;
-	mso-generic-font-family:auto;
 	mso-font-charset:0;
 	mso-style-name:"60% - Accent6";}
 td
@@ -810,32 +785,28 @@ td
 	vertical-align:middle;
 	white-space:nowrap;
 	mso-rotate:0;
-	mso-pattern:auto;
-	mso-background-source:auto;
 	color:#000000;
 	font-size:11.0pt;
 	font-weight:400;
 	font-style:normal;
 	text-decoration:none;
 	font-family:Calibri;
-	mso-generic-font-family:auto;
 	mso-font-charset:134;
 	border:none;
 	mso-protection:locked visible;}
 .xl65
 	{mso-style-parent:style0;
-	text-align:right;
-	white-space:normal;
-	font-weight:700;
-	mso-font-charset:134;
-	border-right:1.0pt solid #949698;}
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
 .xl66
 	{mso-style-parent:style0;
 	text-align:center;
 	white-space:normal;
 	font-size:10.0pt;
 	font-weight:700;
-	font-family:Arial Unicode MS;
+	font-family:Arial;
+	mso-generic-font-family:auto;
 	mso-font-charset:134;}
 .xl67
 	{mso-style-parent:style0;
@@ -844,13 +815,14 @@ td
 	white-space:normal;
 	font-size:10.0pt;
 	font-weight:700;
-	font-family:Arial Unicode MS;
+	font-family:Arial;
 	mso-font-charset:134;}
 .xl68
 	{mso-style-parent:style0;
 	white-space:normal;
 	font-size:10.0pt;
-	font-family:Arial Unicode MS;
+	font-family:Arial;
+	mso-generic-font-family:auto;
 	mso-font-charset:134;}
 .xl69
 	{mso-style-parent:style0;
@@ -858,35 +830,55 @@ td
 	color:#008000;
 	font-size:10.0pt;
 	font-weight:700;
-	font-family:Arial Unicode MS;
+	font-family:Arial;
+	mso-generic-font-family:auto;
 	mso-font-charset:134;}
 .xl70
 	{mso-style-parent:style0;
 	white-space:normal;
+	font-size:10.0pt;
+	font-family:Arial;
 	mso-font-charset:134;}
 .xl71
+	{mso-style-parent:style0;
+	white-space:normal;
+	font-family:Arial;
+	mso-font-charset:134;}
+.xl72
 	{mso-style-parent:style0;
 	white-space:normal;
 	color:#FF0000;
 	font-size:10.0pt;
 	font-weight:700;
-	font-family:Arial Unicode MS;
+	font-family:Arial;
+	mso-generic-font-family:auto;
 	mso-font-charset:134;}
-.xl72
+.xl73
 	{mso-style-parent:style0;
 	white-space:normal;
 	color:#0000FF;
 	font-size:10.0pt;
 	font-weight:700;
-	font-family:Arial Unicode MS;
+	font-family:Arial;
+	mso-generic-font-family:auto;
 	mso-font-charset:134;}
-.xl73
+.xl74
 	{mso-style-parent:style0;
 	text-align:center;
 	white-space:normal;
 	font-weight:700;
 	mso-font-charset:134;}
-.xl74
+.xl75
+	{mso-style-parent:style0;
+	white-space:normal;
+	mso-font-charset:134;}
+.xl76
+	{mso-style-parent:style0;
+	white-space:normal;
+	font-size:10.0pt;
+	font-family:Arial Unicode MS;
+	mso-font-charset:134;}
+.xl77
 	{mso-style-parent:style0;
 	mso-number-format:"\#\,\#\#0";
 	white-space:normal;
@@ -902,15 +894,16 @@ td
        <x:Name>Worksheet</x:Name>
        <x:WorksheetOptions>
         <x:DefaultRowHeight>290</x:DefaultRowHeight>
-        <x:StandardWidth>2234</x:StandardWidth>
+        <x:StandardWidth>2231</x:StandardWidth>
         <x:Selected/>
-        <x:LeftColumnVisible>4</x:LeftColumnVisible>
+        <x:TopRowVisible>21</x:TopRowVisible>
+        <x:LeftColumnVisible>2</x:LeftColumnVisible>
         <x:Panes>
          <x:Pane>
           <x:Number>3</x:Number>
-          <x:ActiveCol>28</x:ActiveCol>
-          <x:ActiveRow>0</x:ActiveRow>
-          <x:RangeSelection>AC:AC</x:RangeSelection>
+          <x:ActiveCol>9</x:ActiveCol>
+          <x:ActiveRow>38</x:ActiveRow>
+          <x:RangeSelection>J39</x:RangeSelection>
          </x:Pane>
         </x:Panes>
         <x:ProtectContents>False</x:ProtectContents>
@@ -925,73 +918,68 @@ td
      </x:ExcelWorksheets>
      <x:ProtectStructure>False</x:ProtectStructure>
      <x:ProtectWindows>False</x:ProtectWindows>
-     <x:WindowHeight>6800</x:WindowHeight>
-     <x:WindowWidth>19200</x:WindowWidth>
+     <x:SelectedSheets>0</x:SelectedSheets>
+     <x:WindowHeight>6920</x:WindowHeight>
+     <x:WindowWidth>20400</x:WindowWidth>
     </x:ExcelWorkbook>
    </xml>
   <![endif]-->
  </head>
  <body link="blue" vlink="purple">
-  <table width="2005" border="0" cellpadding="0" cellspacing="0" style='width:1002.50pt;border-collapse:collapse;table-layout:fixed;'>
-   <col width="96" style='width:48.00pt;'/>
-   <col width="130" style='mso-width-source:userset;mso-width-alt:3169;'/>
-   <col width="49.50" style='mso-width-source:userset;mso-width-alt:1206;'/>
-   <col width="138" style='mso-width-source:userset;mso-width-alt:3364;'/>
-   <col width="71.50" style='mso-width-source:userset;mso-width-alt:1743;'/>
-   <col width="82.50" style='mso-width-source:userset;mso-width-alt:2011;'/>
-   <col width="172.50" style='mso-width-source:userset;mso-width-alt:4205;'/>
-   <col width="161" style='mso-width-source:userset;mso-width-alt:3925;'/>
-   <col width="71.50" style='mso-width-source:userset;mso-width-alt:1743;'/>
-   <col width="49.50" style='mso-width-source:userset;mso-width-alt:1206;'/>
-   <col width="67" style='mso-width-source:userset;mso-width-alt:1633;'/>
-   <col width="49.50" span="2" style='mso-width-source:userset;mso-width-alt:1206;'/>
-   <col width="38.50" style='mso-width-source:userset;mso-width-alt:938;'/>
-   <col width="71.50" style='mso-width-source:userset;mso-width-alt:1743;'/>
-   <col width="47" style='mso-width-source:userset;mso-width-alt:1145;'/>
-   <col width="49.50" style='mso-width-source:userset;mso-width-alt:1206;'/>
-   <col width="60.50" span="2" style='mso-width-source:userset;mso-width-alt:1474;'/>
-   <col width="49.50" span="4" style='mso-width-source:userset;mso-width-alt:1206;'/>
-   <col width="60.50" style='mso-width-source:userset;mso-width-alt:1474;'/>
-   <col width="49.50" style='mso-width-source:userset;mso-width-alt:1206;'/>
-   <col width="38.50" style='mso-width-source:userset;mso-width-alt:938;'/>
-   <col width="71.50" span="2" style='mso-width-source:userset;mso-width-alt:1743;'/>
-   <tr height="29" style='height:14.50pt;mso-height-source:userset;mso-height-alt:290;'>
-    <td height="29" width="96" style='height:14.50pt;width:48.00pt;'></td>
-    <td class="xl65" width="993" colspan="10" style='width:496.50pt;border-right:1.0pt solid #949698;border-bottom:none;'></td>
-    <td class="xl66" width="916" colspan="17" style='width:458.00pt;border-right:none;border-bottom:none;' x:str>Performance</td>
+  <table width="2019.90" border="0" cellpadding="0" cellspacing="0" style='width:1009.95pt;border-collapse:collapse;table-layout:fixed;'>
+   <col width="95.90" style='mso-width-source:userset;mso-width-alt:2338;'/>
+   <col width="136.20" style='mso-width-source:userset;mso-width-alt:3320;'/>
+   <col width="51.80" style='mso-width-source:userset;mso-width-alt:1262;'/>
+   <col width="144.50" style='mso-width-source:userset;mso-width-alt:3522;'/>
+   <col width="74.90" style='mso-width-source:userset;mso-width-alt:1826;'/>
+   <col width="86.40" style='mso-width-source:userset;mso-width-alt:2106;'/>
+   <col width="180.70" style='mso-width-source:userset;mso-width-alt:4405;'/>
+   <col width="168.70" style='mso-width-source:userset;mso-width-alt:4112;'/>
+   <col width="74.90" style='mso-width-source:userset;mso-width-alt:1826;'/>
+   <col width="51.80" style='mso-width-source:userset;mso-width-alt:1262;'/>
+   <col width="70.20" style='mso-width-source:userset;mso-width-alt:1711;'/>
+   <col width="51.80" span="2" style='mso-width-source:userset;mso-width-alt:1262;'/>
+   <col width="40.30" style='mso-width-source:userset;mso-width-alt:982;'/>
+   <col width="74.90" style='mso-width-source:userset;mso-width-alt:1826;'/>
+   <col width="49.20" style='mso-width-source:userset;mso-width-alt:1199;'/>
+   <col width="51.80" style='mso-width-source:userset;mso-width-alt:1262;'/>
+   <col width="63.30" span="2" style='mso-width-source:userset;mso-width-alt:1543;'/>
+   <col width="51.80" span="4" style='mso-width-source:userset;mso-width-alt:1262;'/>
+   <col width="63.30" style='mso-width-source:userset;mso-width-alt:1543;'/>
+   <col width="51.80" style='mso-width-source:userset;mso-width-alt:1262;'/>
+   <col width="40.30" style='mso-width-source:userset;mso-width-alt:982;'/>
+   <col width="74.90" style='mso-width-source:userset;mso-width-alt:1826;'/>
+   <tr height="29" style='height:14.50pt;'>
+    <td class="xl65" height="29" width="95.90" style='height:14.50pt;width:47.95pt;' x:str>SEASON</td>
+    <td class="xl66" width="136.20" style='width:68.10pt;' x:str>Date</td>
+    <td class="xl66" width="51.80" style='width:25.90pt;' x:str>Day</td>
+    <td class="xl66" width="144.50" style='width:72.25pt;' x:str>Round</td>
+    <td class="xl66" width="74.90" style='width:37.45pt;' x:str>Venue</td>
+    <td class="xl66" width="86.40" style='width:43.20pt;' x:str>Result</td>
+    <td class="xl66" width="180.70" style='width:90.35pt;' x:str>Squad</td>
+    <td class="xl66" width="168.70" style='width:84.35pt;' x:str>Opponent</td>
+    <td class="xl66" width="74.90" style='width:37.45pt;' x:str>Start</td>
+    <td class="xl66" width="51.80" style='width:25.90pt;' x:str>Pos</td>
+    <td class="xl66" width="70.20" style='width:35.10pt;' x:str>Min</td>
+    <td class="xl66" width="51.80" style='width:25.90pt;' x:str>Gls</td>
+    <td class="xl66" width="51.80" style='width:25.90pt;' x:str>Ast</td>
+    <td class="xl66" width="40.30" style='width:20.15pt;' x:str>PK</td>
+    <td class="xl66" width="74.90" style='width:37.45pt;' x:str>PKatt</td>
+    <td class="xl66" width="49.20" style='width:24.60pt;' x:str>Sh</td>
+    <td class="xl66" width="51.80" style='width:25.90pt;' x:str>SoT</td>
+    <td class="xl66" width="63.30" style='width:31.65pt;' x:str>CrdY</td>
+    <td class="xl66" width="63.30" style='width:31.65pt;' x:str>CrdR</td>
+    <td class="xl66" width="51.80" style='width:25.90pt;' x:str>Fls</td>
+    <td class="xl66" width="51.80" style='width:25.90pt;' x:str>Fld</td>
+    <td class="xl66" width="51.80" style='width:25.90pt;' x:str>Off</td>
+    <td class="xl66" width="51.80" style='width:25.90pt;' x:str>Crs</td>
+    <td class="xl66" width="63.30" style='width:31.65pt;' x:str>TklW</td>
+    <td class="xl66" width="51.80" style='width:25.90pt;' x:str>Int</td>
+    <td class="xl66" width="40.30" style='width:20.15pt;' x:str>OG</td>
+    <td class="xl66" width="74.90" style='width:37.45pt;' x:str>PKcon</td>
    </tr>
    <tr height="29" style='height:14.50pt;'>
-    <td height="29" style='height:14.50pt;' x:str>SEASON</td>
-    <td class="xl66" x:str>Date</td>
-    <td class="xl66" x:str>Day</td>
-    <td class="xl66" x:str>Round</td>
-    <td class="xl66" x:str>Venue</td>
-    <td class="xl66" x:str>Result</td>
-    <td class="xl66" x:str>Squad</td>
-    <td class="xl66" x:str>Opponent</td>
-    <td class="xl66" x:str>Start</td>
-    <td class="xl66" x:str>Pos</td>
-    <td class="xl66" x:str>Min</td>
-    <td class="xl66" x:str>Gls</td>
-    <td class="xl66" x:str>Ast</td>
-    <td class="xl66" x:str>PK</td>
-    <td class="xl66" x:str>PKatt</td>
-    <td class="xl66" x:str>Sh</td>
-    <td class="xl66" x:str>SoT</td>
-    <td class="xl66" x:str>CrdY</td>
-    <td class="xl66" x:str>CrdR</td>
-    <td class="xl66" x:str>Fls</td>
-    <td class="xl66" x:str>Fld</td>
-    <td class="xl66" x:str>Off</td>
-    <td class="xl66" x:str>Crs</td>
-    <td class="xl66" x:str>TklW</td>
-    <td class="xl66" x:str>Int</td>
-    <td class="xl66" x:str>OG</td>
-    <td class="xl66" x:str>PKwon</td>
-    <td class="xl66" x:str>PKcon</td>
-   </tr>
-   <tr height="29" style='height:14.50pt;'>
-    <td height="29" style='height:14.50pt;' x:str>2025-26</td>
+    <td class="xl65" height="29" style='height:14.50pt;' x:str>2025-26</td>
     <td class="xl67" x:num="45885.">8/16/2025</td>
     <td class="xl68" x:str>Sat</td>
     <td class="xl68" x:str>Matchweek 1</td>
@@ -1001,84 +989,84 @@ td
     <td class="xl68" x:str>Wolves</td>
     <td class="xl68" x:str>Y</td>
     <td class="xl68" x:str>FW</td>
-    <td class="xl68" align="right" x:num>72</td>
-    <td class="xl68" align="right" x:num>2</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>6</td>
-    <td class="xl68" align="right" x:num>2</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>1</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl70" align="right" x:num>72</td>
+    <td class="xl70" align="right" x:num>2</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>6</td>
+    <td class="xl70" align="right" x:num>2</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>1</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl71"></td>
    </tr>
    <tr height="29" style='height:14.50pt;'>
-    <td height="29" style='height:14.50pt;' x:str>2025-26</td>
+    <td class="xl65" height="29" style='height:14.50pt;' x:str>2025-26</td>
     <td class="xl67" x:num="45892.">8/23/2025</td>
     <td class="xl68" x:str>Sat</td>
     <td class="xl68" x:str>Matchweek 2</td>
     <td class="xl68" x:str>Home</td>
-    <td class="xl71" x:str>L<span style='mso-spacerun:yes;'>&nbsp;</span></td>
+    <td class="xl72" x:str>L<span style='mso-spacerun:yes;'>&nbsp;</span></td>
     <td class="xl68" x:str>Manchester City</td>
     <td class="xl68" x:str>Tottenham</td>
     <td class="xl68" x:str>Y</td>
     <td class="xl68" x:str>FW</td>
-    <td class="xl68" align="right" x:num>90</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>1</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>1</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl70" align="right" x:num>90</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>1</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>1</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl71"></td>
    </tr>
    <tr height="29" style='height:14.50pt;'>
-    <td height="29" style='height:14.50pt;' x:str>2025-26</td>
+    <td class="xl65" height="29" style='height:14.50pt;' x:str>2025-26</td>
     <td class="xl67" x:num="45900.">8/31/2025</td>
     <td class="xl68" x:str>Sun</td>
     <td class="xl68" x:str>Matchweek 3</td>
     <td class="xl68" x:str>Away</td>
-    <td class="xl71" x:str>L<span style='mso-spacerun:yes;'>&nbsp;</span></td>
+    <td class="xl72" x:str>L<span style='mso-spacerun:yes;'>&nbsp;</span></td>
     <td class="xl68" x:str>Manchester City</td>
     <td class="xl68" x:str>Brighton</td>
     <td class="xl68" x:str>Y</td>
     <td class="xl68" x:str>FW</td>
-    <td class="xl68" align="right" x:num>90</td>
-    <td class="xl68" align="right" x:num>1</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>7</td>
-    <td class="xl68" align="right" x:num>3</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>1</td>
-    <td class="xl68" align="right" x:num>1</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl70" align="right" x:num>90</td>
+    <td class="xl70" align="right" x:num>1</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>7</td>
+    <td class="xl70" align="right" x:num>3</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>1</td>
+    <td class="xl70" align="right" x:num>1</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl71"></td>
    </tr>
    <tr height="29" style='height:14.50pt;'>
-    <td height="29" style='height:14.50pt;' x:str>2025-26</td>
+    <td class="xl65" height="29" style='height:14.50pt;' x:str>2025-26</td>
     <td class="xl67" x:num="45914.">9/14/2025</td>
     <td class="xl68" x:str>Sun</td>
     <td class="xl68" x:str>Matchweek 4</td>
@@ -1088,55 +1076,55 @@ td
     <td class="xl68" x:str>Manchester Utd</td>
     <td class="xl68" x:str>Y</td>
     <td class="xl68" x:str>FW</td>
-    <td class="xl68" align="right" x:num>86</td>
-    <td class="xl68" align="right" x:num>2</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>5</td>
-    <td class="xl68" align="right" x:num>3</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl70" align="right" x:num>86</td>
+    <td class="xl70" align="right" x:num>2</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>5</td>
+    <td class="xl70" align="right" x:num>3</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl71"></td>
    </tr>
    <tr height="29" style='height:14.50pt;'>
-    <td height="29" style='height:14.50pt;' x:str>2025-26</td>
+    <td class="xl65" height="29" style='height:14.50pt;' x:str>2025-26</td>
     <td class="xl67" x:num="45921.">9/21/2025</td>
     <td class="xl68" x:str>Sun</td>
     <td class="xl68" x:str>Matchweek 5</td>
     <td class="xl68" x:str>Away</td>
-    <td class="xl72" x:str>D<span style='mso-spacerun:yes;'>&nbsp;</span></td>
+    <td class="xl73" x:str>D<span style='mso-spacerun:yes;'>&nbsp;</span></td>
     <td class="xl68" x:str>Manchester City</td>
     <td class="xl68" x:str>Arsenal</td>
     <td class="xl68" x:str>Y</td>
     <td class="xl68" x:str>FW</td>
-    <td class="xl68" align="right" x:num>75</td>
-    <td class="xl68" align="right" x:num>1</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>2</td>
-    <td class="xl68" align="right" x:num>2</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>3</td>
-    <td class="xl68" align="right" x:num>1</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl70" align="right" x:num>75</td>
+    <td class="xl70" align="right" x:num>1</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>2</td>
+    <td class="xl70" align="right" x:num>2</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>3</td>
+    <td class="xl70" align="right" x:num>1</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl71"></td>
    </tr>
    <tr height="29" style='height:14.50pt;'>
-    <td height="29" style='height:14.50pt;' x:str>2025-26</td>
+    <td class="xl65" height="29" style='height:14.50pt;' x:str>2025-26</td>
     <td class="xl67" x:num="45927.">9/27/2025</td>
     <td class="xl68" x:str>Sat</td>
     <td class="xl68" x:str>Matchweek 6</td>
@@ -1146,26 +1134,26 @@ td
     <td class="xl68" x:str>Burnley</td>
     <td class="xl68" x:str>Y</td>
     <td class="xl68" x:str>FW</td>
-    <td class="xl68" align="right" x:num>90</td>
-    <td class="xl68" align="right" x:num>2</td>
-    <td class="xl68" align="right" x:num>1</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>7</td>
-    <td class="xl68" align="right" x:num>3</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl70" align="right" x:num>90</td>
+    <td class="xl70" align="right" x:num>2</td>
+    <td class="xl70" align="right" x:num>1</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>7</td>
+    <td class="xl70" align="right" x:num>3</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl71"></td>
    </tr>
    <tr height="29" style='height:14.50pt;'>
-    <td height="29" style='height:14.50pt;' x:str>2025-26</td>
+    <td class="xl65" height="29" style='height:14.50pt;' x:str>2025-26</td>
     <td class="xl67" x:num="45935.">10/5/2025</td>
     <td class="xl68" x:str>Sun</td>
     <td class="xl68" x:str>Matchweek 7</td>
@@ -1175,26 +1163,26 @@ td
     <td class="xl68" x:str>Brentford</td>
     <td class="xl68" x:str>Y</td>
     <td class="xl68" x:str>FW</td>
-    <td class="xl68" align="right" x:num>90</td>
-    <td class="xl68" align="right" x:num>1</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>1</td>
-    <td class="xl68" align="right" x:num>1</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>1</td>
-    <td class="xl68" align="right" x:num>1</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl70" align="right" x:num>90</td>
+    <td class="xl70" align="right" x:num>1</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>1</td>
+    <td class="xl70" align="right" x:num>1</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>1</td>
+    <td class="xl70" align="right" x:num>1</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl71"></td>
    </tr>
    <tr height="29" style='height:14.50pt;'>
-    <td height="29" style='height:14.50pt;' x:str>2025-26</td>
+    <td class="xl65" height="29" style='height:14.50pt;' x:str>2025-26</td>
     <td class="xl67" x:num="45948.">10/18/2025</td>
     <td class="xl68" x:str>Sat</td>
     <td class="xl68" x:str>Matchweek 8</td>
@@ -1204,55 +1192,55 @@ td
     <td class="xl68" x:str>Everton</td>
     <td class="xl68" x:str>Y</td>
     <td class="xl68" x:str>FW</td>
-    <td class="xl68" align="right" x:num>90</td>
-    <td class="xl68" align="right" x:num>2</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>5</td>
-    <td class="xl68" align="right" x:num>4</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>2</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl70" align="right" x:num>90</td>
+    <td class="xl70" align="right" x:num>2</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>5</td>
+    <td class="xl70" align="right" x:num>4</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>2</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl71"></td>
    </tr>
    <tr height="29" style='height:14.50pt;'>
-    <td height="29" style='height:14.50pt;' x:str>2025-26</td>
+    <td class="xl65" height="29" style='height:14.50pt;' x:str>2025-26</td>
     <td class="xl67" x:num="45956.">10/26/2025</td>
     <td class="xl68" x:str>Sun</td>
     <td class="xl68" x:str>Matchweek 9</td>
     <td class="xl68" x:str>Away</td>
-    <td class="xl71" x:str>L<span style='mso-spacerun:yes;'>&nbsp;</span></td>
+    <td class="xl72" x:str>L<span style='mso-spacerun:yes;'>&nbsp;</span></td>
     <td class="xl68" x:str>Manchester City</td>
     <td class="xl68" x:str>Aston Villa</td>
     <td class="xl68" x:str>Y</td>
     <td class="xl68" x:str>FW</td>
-    <td class="xl68" align="right" x:num>90</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>3</td>
-    <td class="xl68" align="right" x:num>3</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>1</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl70" align="right" x:num>90</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>3</td>
+    <td class="xl70" align="right" x:num>3</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>1</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl71"></td>
    </tr>
    <tr height="29" style='height:14.50pt;'>
-    <td height="29" style='height:14.50pt;' x:str>2025-26</td>
+    <td class="xl65" height="29" style='height:14.50pt;' x:str>2025-26</td>
     <td class="xl67" x:num="45963.">11/2/2025</td>
     <td class="xl68" x:str>Sun</td>
     <td class="xl68" x:str>Matchweek 10</td>
@@ -1262,26 +1250,26 @@ td
     <td class="xl68" x:str>Bournemouth</td>
     <td class="xl68" x:str>Y</td>
     <td class="xl68" x:str>FW</td>
-    <td class="xl68" align="right" x:num>81</td>
-    <td class="xl68" align="right" x:num>2</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>6</td>
-    <td class="xl68" align="right" x:num>4</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl70" align="right" x:num>81</td>
+    <td class="xl70" align="right" x:num>2</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>6</td>
+    <td class="xl70" align="right" x:num>4</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl71"></td>
    </tr>
    <tr height="29" style='height:14.50pt;'>
-    <td height="29" style='height:14.50pt;' x:str>2025-26</td>
+    <td class="xl65" height="29" style='height:14.50pt;' x:str>2025-26</td>
     <td class="xl67" x:num="45970.">11/9/2025</td>
     <td class="xl68" x:str>Sun</td>
     <td class="xl68" x:str>Matchweek 11</td>
@@ -1291,55 +1279,55 @@ td
     <td class="xl68" x:str>Liverpool</td>
     <td class="xl68" x:str>Y</td>
     <td class="xl68" x:str>FW</td>
-    <td class="xl68" align="right" x:num>90</td>
-    <td class="xl68" align="right" x:num>1</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>1</td>
-    <td class="xl68" align="right" x:num>2</td>
-    <td class="xl68" align="right" x:num>2</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>3</td>
-    <td class="xl68" align="right" x:num>1</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>1</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl70" align="right" x:num>90</td>
+    <td class="xl70" align="right" x:num>1</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>1</td>
+    <td class="xl70" align="right" x:num>2</td>
+    <td class="xl70" align="right" x:num>2</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>3</td>
+    <td class="xl70" align="right" x:num>1</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>1</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl71"></td>
    </tr>
    <tr height="29" style='height:14.50pt;'>
-    <td height="29" style='height:14.50pt;' x:str>2025-26</td>
+    <td class="xl65" height="29" style='height:14.50pt;' x:str>2025-26</td>
     <td class="xl67" x:num="45983.">11/22/2025</td>
     <td class="xl68" x:str>Sat</td>
     <td class="xl68" x:str>Matchweek 12</td>
     <td class="xl68" x:str>Away</td>
-    <td class="xl71" x:str>L<span style='mso-spacerun:yes;'>&nbsp;</span></td>
+    <td class="xl72" x:str>L<span style='mso-spacerun:yes;'>&nbsp;</span></td>
     <td class="xl68" x:str>Manchester City</td>
     <td class="xl68" x:str>Newcastle</td>
     <td class="xl68" x:str>Y</td>
     <td class="xl68" x:str>FW</td>
-    <td class="xl68" align="right" x:num>90</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>5</td>
-    <td class="xl68" align="right" x:num>2</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>1</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>1</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl70" align="right" x:num>90</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>5</td>
+    <td class="xl70" align="right" x:num>2</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>1</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>1</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl71"></td>
    </tr>
    <tr height="29" style='height:14.50pt;'>
-    <td height="29" style='height:14.50pt;' x:str>2025-26</td>
+    <td class="xl65" height="29" style='height:14.50pt;' x:str>2025-26</td>
     <td class="xl67" x:num="45990.">11/29/2025</td>
     <td class="xl68" x:str>Sat</td>
     <td class="xl68" x:str>Matchweek 13</td>
@@ -1349,26 +1337,26 @@ td
     <td class="xl68" x:str>Leeds United</td>
     <td class="xl68" x:str>Y</td>
     <td class="xl68" x:str>FW</td>
-    <td class="xl68" align="right" x:num>90</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>1</td>
-    <td class="xl68" align="right" x:num>1</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>2</td>
-    <td class="xl68" align="right" x:num>1</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl70" align="right" x:num>90</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>1</td>
+    <td class="xl70" align="right" x:num>1</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>2</td>
+    <td class="xl70" align="right" x:num>1</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl71"></td>
    </tr>
    <tr height="29" style='height:14.50pt;'>
-    <td height="29" style='height:14.50pt;' x:str>2025-26</td>
+    <td class="xl65" height="29" style='height:14.50pt;' x:str>2025-26</td>
     <td class="xl67" x:num="45993.">12/2/2025</td>
     <td class="xl68" x:str>Tue</td>
     <td class="xl68" x:str>Matchweek 14</td>
@@ -1378,26 +1366,26 @@ td
     <td class="xl68" x:str>Fulham</td>
     <td class="xl68" x:str>Y</td>
     <td class="xl68" x:str>FW</td>
-    <td class="xl68" align="right" x:num>90</td>
-    <td class="xl68" align="right" x:num>1</td>
-    <td class="xl68" align="right" x:num>2</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>5</td>
-    <td class="xl68" align="right" x:num>1</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>1</td>
-    <td class="xl68" align="right" x:num>1</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>1</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl70" align="right" x:num>90</td>
+    <td class="xl70" align="right" x:num>1</td>
+    <td class="xl70" align="right" x:num>2</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>5</td>
+    <td class="xl70" align="right" x:num>1</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>1</td>
+    <td class="xl70" align="right" x:num>1</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>1</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl71"></td>
    </tr>
    <tr height="29" style='height:14.50pt;'>
-    <td height="29" style='height:14.50pt;' x:str>2025-26</td>
+    <td class="xl65" height="29" style='height:14.50pt;' x:str>2025-26</td>
     <td class="xl67" x:num="45997.">12/6/2025</td>
     <td class="xl68" x:str>Sat</td>
     <td class="xl68" x:str>Matchweek 15</td>
@@ -1407,26 +1395,26 @@ td
     <td class="xl68" x:str>Sunderland</td>
     <td class="xl68" x:str>Y</td>
     <td class="xl68" x:str>FW</td>
-    <td class="xl68" align="right" x:num>68</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>1</td>
-    <td class="xl68" align="right" x:num>1</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>1</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl70" align="right" x:num>68</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>1</td>
+    <td class="xl70" align="right" x:num>1</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>1</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl71"></td>
    </tr>
    <tr height="29" style='height:14.50pt;'>
-    <td height="29" style='height:14.50pt;' x:str>2025-26</td>
+    <td class="xl65" height="29" style='height:14.50pt;' x:str>2025-26</td>
     <td class="xl67" x:num="46005.">12/14/2025</td>
     <td class="xl68" x:str>Sun</td>
     <td class="xl68" x:str>Matchweek 16</td>
@@ -1436,26 +1424,26 @@ td
     <td class="xl68" x:str>Crystal Palace</td>
     <td class="xl68" x:str>Y</td>
     <td class="xl68" x:str>FW</td>
-    <td class="xl68" align="right" x:num>89</td>
-    <td class="xl68" align="right" x:num>2</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>1</td>
-    <td class="xl68" align="right" x:num>1</td>
-    <td class="xl68" align="right" x:num>2</td>
-    <td class="xl68" align="right" x:num>2</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>1</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>2</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl70" align="right" x:num>89</td>
+    <td class="xl70" align="right" x:num>2</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>1</td>
+    <td class="xl70" align="right" x:num>1</td>
+    <td class="xl70" align="right" x:num>2</td>
+    <td class="xl70" align="right" x:num>2</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>1</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>2</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl71"></td>
    </tr>
    <tr height="29" style='height:14.50pt;'>
-    <td height="29" style='height:14.50pt;' x:str>2025-26</td>
+    <td class="xl65" height="29" style='height:14.50pt;' x:str>2025-26</td>
     <td class="xl67" x:num="46011.">12/20/2025</td>
     <td class="xl68" x:str>Sat</td>
     <td class="xl68" x:str>Matchweek 17</td>
@@ -1465,26 +1453,26 @@ td
     <td class="xl68" x:str>West Ham</td>
     <td class="xl68" x:str>Y</td>
     <td class="xl68" x:str>FW</td>
-    <td class="xl68" align="right" x:num>90</td>
-    <td class="xl68" align="right" x:num>2</td>
-    <td class="xl68" align="right" x:num>1</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>7</td>
-    <td class="xl68" align="right" x:num>3</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>1</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl70" align="right" x:num>90</td>
+    <td class="xl70" align="right" x:num>2</td>
+    <td class="xl70" align="right" x:num>1</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>7</td>
+    <td class="xl70" align="right" x:num>3</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>1</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl71"></td>
    </tr>
    <tr height="29" style='height:14.50pt;'>
-    <td height="29" style='height:14.50pt;' x:str>2025-26</td>
+    <td class="xl65" height="29" style='height:14.50pt;' x:str>2025-26</td>
     <td class="xl67" x:num="46018.">12/27/2025</td>
     <td class="xl68" x:str>Sat</td>
     <td class="xl68" x:str>Matchweek 18</td>
@@ -1494,142 +1482,142 @@ td
     <td class="xl68" x:str>Nottingham</td>
     <td class="xl68" x:str>Y</td>
     <td class="xl68" x:str>FW</td>
-    <td class="xl68" align="right" x:num>90</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>2</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>1</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl70" align="right" x:num>90</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>2</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>1</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl71"></td>
    </tr>
    <tr height="29" style='height:14.50pt;'>
-    <td height="29" style='height:14.50pt;' x:str>2025-26</td>
+    <td class="xl65" height="29" style='height:14.50pt;' x:str>2025-26</td>
     <td class="xl67" x:num="46023.">1/1/2026</td>
     <td class="xl68" x:str>Thu</td>
     <td class="xl68" x:str>Matchweek 19</td>
     <td class="xl68" x:str>Away</td>
-    <td class="xl72" x:str>D<span style='mso-spacerun:yes;'>&nbsp;</span></td>
+    <td class="xl73" x:str>D<span style='mso-spacerun:yes;'>&nbsp;</span></td>
     <td class="xl68" x:str>Manchester City</td>
     <td class="xl68" x:str>Sunderland</td>
     <td class="xl68" x:str>Y</td>
     <td class="xl68" x:str>FW</td>
-    <td class="xl68" align="right" x:num>90</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>2</td>
-    <td class="xl68" align="right" x:num>1</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>1</td>
-    <td class="xl68" align="right" x:num>1</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl70" align="right" x:num>90</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>2</td>
+    <td class="xl70" align="right" x:num>1</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>1</td>
+    <td class="xl70" align="right" x:num>1</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl71"></td>
    </tr>
    <tr height="29" style='height:14.50pt;'>
-    <td height="29" style='height:14.50pt;' x:str>2025-26</td>
+    <td class="xl65" height="29" style='height:14.50pt;' x:str>2025-26</td>
     <td class="xl67" x:num="46026.">1/4/2026</td>
     <td class="xl68" x:str>Sun</td>
     <td class="xl68" x:str>Matchweek 20</td>
     <td class="xl68" x:str>Home</td>
-    <td class="xl72" x:str>D</td>
+    <td class="xl73" x:str>D</td>
     <td class="xl68" x:str>Manchester City</td>
     <td class="xl68" x:str>Chelsea</td>
     <td class="xl68" x:str>Y</td>
     <td class="xl68" x:str>FW</td>
-    <td class="xl68" align="right" x:num>90</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>5</td>
-    <td class="xl68" align="right" x:num>1</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>1</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>1</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl70" align="right" x:num>90</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>5</td>
+    <td class="xl70" align="right" x:num>1</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>1</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>1</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl71"></td>
    </tr>
    <tr height="29" style='height:14.50pt;'>
-    <td height="29" style='height:14.50pt;' x:str>2025-26</td>
+    <td class="xl65" height="29" style='height:14.50pt;' x:str>2025-26</td>
     <td class="xl67" x:num="46029.">1/7/2026</td>
     <td class="xl68" x:str>Wed</td>
     <td class="xl68" x:str>Matchweek 21</td>
     <td class="xl68" x:str>Home</td>
-    <td class="xl72" x:str>D<span style='mso-spacerun:yes;'>&nbsp;</span></td>
+    <td class="xl73" x:str>D<span style='mso-spacerun:yes;'>&nbsp;</span></td>
     <td class="xl68" x:str>Manchester City</td>
     <td class="xl68" x:str>Brighton</td>
     <td class="xl68" x:str>Y</td>
     <td class="xl68" x:str>FW</td>
-    <td class="xl68" align="right" x:num>90</td>
-    <td class="xl68" align="right" x:num>1</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>1</td>
-    <td class="xl68" align="right" x:num>1</td>
-    <td class="xl68" align="right" x:num>8</td>
-    <td class="xl68" align="right" x:num>4</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>2</td>
-    <td class="xl68" align="right" x:num>1</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>1</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl70" align="right" x:num>90</td>
+    <td class="xl70" align="right" x:num>1</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>1</td>
+    <td class="xl70" align="right" x:num>1</td>
+    <td class="xl70" align="right" x:num>8</td>
+    <td class="xl70" align="right" x:num>4</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>2</td>
+    <td class="xl70" align="right" x:num>1</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>1</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl71"></td>
    </tr>
    <tr height="29" style='height:14.50pt;'>
-    <td height="29" style='height:14.50pt;' x:str>2025-26</td>
+    <td class="xl65" height="29" style='height:14.50pt;' x:str>2025-26</td>
     <td class="xl67" x:num="46039.">1/17/2026</td>
     <td class="xl68" x:str>Sat</td>
     <td class="xl68" x:str>Matchweek 22</td>
     <td class="xl68" x:str>Away</td>
-    <td class="xl71" x:str>L</td>
+    <td class="xl72" x:str>L</td>
     <td class="xl68" x:str>Manchester City</td>
     <td class="xl68" x:str>Manchester Utd</td>
     <td class="xl68" x:str>Y</td>
     <td class="xl68" x:str>FW</td>
-    <td class="xl68" align="right" x:num>79</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>2</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>2</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl70" align="right" x:num>79</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>2</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>2</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl71"></td>
    </tr>
    <tr height="29" style='height:14.50pt;'>
-    <td height="29" style='height:14.50pt;' x:str>2025-26</td>
+    <td class="xl65" height="29" style='height:14.50pt;' x:str>2025-26</td>
     <td class="xl67" x:num="46046.">1/24/2026</td>
     <td class="xl68" x:str>Sat</td>
     <td class="xl68" x:str>Matchweek 23</td>
@@ -1638,56 +1626,56 @@ td
     <td class="xl68" x:str>Manchester City</td>
     <td class="xl68" x:str>Wolves</td>
     <td class="xl68" x:str>N</td>
-    <td class="xl70"></td>
-    <td class="xl68" align="right" x:num>18</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl71" x:str>FW</td>
+    <td class="xl70" align="right" x:num>18</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl71"></td>
    </tr>
    <tr height="29" style='height:14.50pt;'>
-    <td height="29" style='height:14.50pt;' x:str>2025-26</td>
+    <td class="xl65" height="29" style='height:14.50pt;' x:str>2025-26</td>
     <td class="xl67" x:num="46054.">2/1/2026</td>
     <td class="xl68" x:str>Sun</td>
     <td class="xl68" x:str>Matchweek 24</td>
     <td class="xl68" x:str>Away</td>
-    <td class="xl72" x:str>D<span style='mso-spacerun:yes;'>&nbsp;</span></td>
+    <td class="xl73" x:str>D<span style='mso-spacerun:yes;'>&nbsp;</span></td>
     <td class="xl68" x:str>Manchester City</td>
     <td class="xl68" x:str>Tottenham</td>
     <td class="xl68" x:str>Y</td>
     <td class="xl68" x:str>FW</td>
-    <td class="xl68" align="right" x:num>90</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>1</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>2</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>1</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>1</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl70" align="right" x:num>90</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>1</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>2</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>1</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>1</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl71"></td>
    </tr>
    <tr height="29" style='height:14.50pt;'>
-    <td height="29" style='height:14.50pt;' x:str>2025-26</td>
+    <td class="xl65" height="29" style='height:14.50pt;' x:str>2025-26</td>
     <td class="xl67" x:num="46061.">2/8/2026</td>
     <td class="xl68" x:str>Sun</td>
     <td class="xl68" x:str>Matchweek 25</td>
@@ -1697,26 +1685,26 @@ td
     <td class="xl68" x:str>Liverpool</td>
     <td class="xl68" x:str>Y</td>
     <td class="xl68" x:str>FW</td>
-    <td class="xl68" align="right" x:num>90</td>
-    <td class="xl68" align="right" x:num>1</td>
-    <td class="xl68" align="right" x:num>1</td>
-    <td class="xl68" align="right" x:num>1</td>
-    <td class="xl68" align="right" x:num>1</td>
-    <td class="xl68" align="right" x:num>3</td>
-    <td class="xl68" align="right" x:num>3</td>
-    <td class="xl68" align="right" x:num>1</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>1</td>
-    <td class="xl68" align="right" x:num>2</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl70" align="right" x:num>90</td>
+    <td class="xl70" align="right" x:num>1</td>
+    <td class="xl70" align="right" x:num>1</td>
+    <td class="xl70" align="right" x:num>1</td>
+    <td class="xl70" align="right" x:num>1</td>
+    <td class="xl70" align="right" x:num>3</td>
+    <td class="xl70" align="right" x:num>3</td>
+    <td class="xl70" align="right" x:num>1</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>1</td>
+    <td class="xl70" align="right" x:num>2</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl71"></td>
    </tr>
    <tr height="29" style='height:14.50pt;'>
-    <td height="29" style='height:14.50pt;' x:str>2025-26</td>
+    <td class="xl65" height="29" style='height:14.50pt;' x:str>2025-26</td>
     <td class="xl67" x:num="46064.">2/11/2026</td>
     <td class="xl68" x:str>Wed</td>
     <td class="xl68" x:str>Matchweek 26</td>
@@ -1726,26 +1714,26 @@ td
     <td class="xl68" x:str>Fulham</td>
     <td class="xl68" x:str>Y</td>
     <td class="xl68" x:str>FW</td>
-    <td class="xl68" align="right" x:num>45</td>
-    <td class="xl68" align="right" x:num>1</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>2</td>
-    <td class="xl68" align="right" x:num>1</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl70" align="right" x:num>45</td>
+    <td class="xl70" align="right" x:num>1</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>2</td>
+    <td class="xl70" align="right" x:num>1</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl71"></td>
    </tr>
    <tr height="29" style='height:14.50pt;'>
-    <td height="29" style='height:14.50pt;' x:str>2025-26</td>
+    <td class="xl65" height="29" style='height:14.50pt;' x:str>2025-26</td>
     <td class="xl67" x:num="46074.">2/21/2026</td>
     <td class="xl68" x:str>Sat</td>
     <td class="xl68" x:str>Matchweek 27</td>
@@ -1755,84 +1743,84 @@ td
     <td class="xl68" x:str>Newcastle</td>
     <td class="xl68" x:str>Y</td>
     <td class="xl68" x:str>FW</td>
-    <td class="xl68" align="right" x:num>90</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>1</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>4</td>
-    <td class="xl68" align="right" x:num>1</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>1</td>
-    <td class="xl68" align="right" x:num>3</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>1</td>
-    <td class="xl68" align="right" x:num>1</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl70" align="right" x:num>90</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>1</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>4</td>
+    <td class="xl70" align="right" x:num>1</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>1</td>
+    <td class="xl70" align="right" x:num>3</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>1</td>
+    <td class="xl70" align="right" x:num>1</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl71"></td>
    </tr>
    <tr height="29" style='height:14.50pt;'>
-    <td height="29" style='height:14.50pt;' x:str>2025-26</td>
+    <td class="xl65" height="29" style='height:14.50pt;' x:str>2025-26</td>
     <td class="xl67" x:num="46085.">3/4/2026</td>
     <td class="xl68" x:str>Wed</td>
     <td class="xl68" x:str>Matchweek 29</td>
     <td class="xl68" x:str>Home</td>
-    <td class="xl72" x:str>D<span style='mso-spacerun:yes;'>&nbsp;</span></td>
+    <td class="xl73" x:str>D<span style='mso-spacerun:yes;'>&nbsp;</span></td>
     <td class="xl68" x:str>Manchester City</td>
     <td class="xl68" x:str>Nottingham</td>
     <td class="xl68" x:str>Y</td>
     <td class="xl68" x:str>FW</td>
-    <td class="xl68" align="right" x:num>90</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>2</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>1</td>
-    <td class="xl68" align="right" x:num>1</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl70" align="right" x:num>90</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>2</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>1</td>
+    <td class="xl70" align="right" x:num>1</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl71"></td>
    </tr>
    <tr height="29" style='height:14.50pt;'>
-    <td height="29" style='height:14.50pt;' x:str>2025-26</td>
+    <td class="xl65" height="29" style='height:14.50pt;' x:str>2025-26</td>
     <td class="xl67" x:num="46095.">3/14/2026</td>
     <td class="xl68" x:str>Sat</td>
     <td class="xl68" x:str>Matchweek 30</td>
     <td class="xl68" x:str>Away</td>
-    <td class="xl72" x:str>D</td>
+    <td class="xl73" x:str>D</td>
     <td class="xl68" x:str>Manchester City</td>
     <td class="xl68" x:str>West Ham</td>
     <td class="xl68" x:str>Y</td>
     <td class="xl68" x:str>FW</td>
-    <td class="xl68" align="right" x:num>90</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>4</td>
-    <td class="xl68" align="right" x:num>1</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>1</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>1</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl70" align="right" x:num>90</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>4</td>
+    <td class="xl70" align="right" x:num>1</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>1</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>1</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl71"></td>
    </tr>
    <tr height="29" style='height:14.50pt;'>
-    <td height="29" style='height:14.50pt;' x:str>2025-26</td>
+    <td class="xl65" height="29" style='height:14.50pt;' x:str>2025-26</td>
     <td class="xl67" x:num="46124.">4/12/2026</td>
     <td class="xl68" x:str>Sun</td>
     <td class="xl68" x:str>Matchweek 32</td>
@@ -1842,26 +1830,26 @@ td
     <td class="xl68" x:str>Chelsea</td>
     <td class="xl68" x:str>Y</td>
     <td class="xl68" x:str>FW</td>
-    <td class="xl68" align="right" x:num>90</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>4</td>
-    <td class="xl68" align="right" x:num>1</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>1</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>1</td>
-    <td class="xl68" align="right" x:num>1</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl70" align="right" x:num>90</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>4</td>
+    <td class="xl70" align="right" x:num>1</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>1</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>1</td>
+    <td class="xl70" align="right" x:num>1</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl71"></td>
    </tr>
    <tr height="29" style='height:14.50pt;'>
-    <td height="29" style='height:14.50pt;' x:str>2025-26</td>
+    <td class="xl65" height="29" style='height:14.50pt;' x:str>2025-26</td>
     <td class="xl67" x:num="46131.">4/19/2026</td>
     <td class="xl68" x:str>Sun</td>
     <td class="xl68" x:str>Matchweek 33</td>
@@ -1871,26 +1859,26 @@ td
     <td class="xl68" x:str>Arsenal</td>
     <td class="xl68" x:str>Y</td>
     <td class="xl68" x:str>FW</td>
-    <td class="xl68" align="right" x:num>90</td>
-    <td class="xl68" align="right" x:num>1</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>5</td>
-    <td class="xl68" align="right" x:num>1</td>
-    <td class="xl68" align="right" x:num>1</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>1</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl70" align="right" x:num>90</td>
+    <td class="xl70" align="right" x:num>1</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>5</td>
+    <td class="xl70" align="right" x:num>1</td>
+    <td class="xl70" align="right" x:num>1</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>1</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl71"></td>
    </tr>
    <tr height="29" style='height:14.50pt;'>
-    <td height="29" style='height:14.50pt;' x:str>2025-26</td>
+    <td class="xl65" height="29" style='height:14.50pt;' x:str>2025-26</td>
     <td class="xl67" x:num="46134.">4/22/2026</td>
     <td class="xl68" x:str>Wed</td>
     <td class="xl68" x:str>Matchweek 34</td>
@@ -1900,55 +1888,55 @@ td
     <td class="xl68" x:str>Burnley</td>
     <td class="xl68" x:str>Y</td>
     <td class="xl68" x:str>FW</td>
-    <td class="xl68" align="right" x:num>90</td>
-    <td class="xl68" align="right" x:num>1</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>5</td>
-    <td class="xl68" align="right" x:num>2</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>2</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>1</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl70" align="right" x:num>90</td>
+    <td class="xl70" align="right" x:num>1</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>5</td>
+    <td class="xl70" align="right" x:num>2</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>2</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>1</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl71"></td>
    </tr>
    <tr height="29" style='height:14.50pt;'>
-    <td height="29" style='height:14.50pt;' x:str>2025-26</td>
+    <td class="xl65" height="29" style='height:14.50pt;' x:str>2025-26</td>
     <td class="xl67" x:num="46146.">5/4/2026</td>
     <td class="xl68" x:str>Mon</td>
     <td class="xl68" x:str>Matchweek 35</td>
     <td class="xl68" x:str>Away</td>
-    <td class="xl72" x:str>D</td>
+    <td class="xl73" x:str>D</td>
     <td class="xl68" x:str>Manchester City</td>
     <td class="xl68" x:str>Everton</td>
     <td class="xl68" x:str>Y</td>
     <td class="xl68" x:str>FW</td>
-    <td class="xl68" align="right" x:num>90</td>
-    <td class="xl68" align="right" x:num>1</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>3</td>
-    <td class="xl68" align="right" x:num>1</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>1</td>
-    <td class="xl68" align="right" x:num>1</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl70" align="right" x:num>90</td>
+    <td class="xl70" align="right" x:num>1</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>3</td>
+    <td class="xl70" align="right" x:num>1</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>1</td>
+    <td class="xl70" align="right" x:num>1</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl71"></td>
    </tr>
    <tr height="29" style='height:14.50pt;'>
-    <td height="29" style='height:14.50pt;' x:str>2025-26</td>
+    <td class="xl65" height="29" style='height:14.50pt;' x:str>2025-26</td>
     <td class="xl67" x:num="46151.">5/9/2026</td>
     <td class="xl68" x:str>Sat</td>
     <td class="xl68" x:str>Matchweek 36</td>
@@ -1958,88 +1946,89 @@ td
     <td class="xl68" x:str>Brentford</td>
     <td class="xl68" x:str>Y</td>
     <td class="xl68" x:str>FW</td>
-    <td class="xl68" align="right" x:num>90</td>
-    <td class="xl68" align="right" x:num>1</td>
-    <td class="xl68" align="right" x:num>1</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>5</td>
-    <td class="xl68" align="right" x:num>4</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl70" align="right" x:num>90</td>
+    <td class="xl70" align="right" x:num>1</td>
+    <td class="xl70" align="right" x:num>1</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>5</td>
+    <td class="xl70" align="right" x:num>4</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl71"></td>
    </tr>
    <tr height="29" style='height:14.50pt;'>
-    <td height="29" style='height:14.50pt;' x:str>2025-26</td>
+    <td class="xl65" height="29" style='height:14.50pt;' x:str>2025-26</td>
     <td class="xl67" x:num="46161.">5/19/2026</td>
     <td class="xl68" x:str>Tue</td>
     <td class="xl68" x:str>Matchweek 37</td>
     <td class="xl68" x:str>Away</td>
-    <td class="xl72" x:str>D</td>
+    <td class="xl73" x:str>D</td>
     <td class="xl68" x:str>Manchester City</td>
     <td class="xl68" x:str>Bournemouth</td>
     <td class="xl68" x:str>Y</td>
     <td class="xl68" x:str>FW</td>
-    <td class="xl68" align="right" x:num>90</td>
-    <td class="xl68" align="right" x:num>1</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>2</td>
-    <td class="xl68" align="right" x:num>1</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>1</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>1</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl68" align="right" x:num>0</td>
-    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl70" align="right" x:num>90</td>
+    <td class="xl70" align="right" x:num>1</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>2</td>
+    <td class="xl70" align="right" x:num>1</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>1</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>1</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl70" align="right" x:num>0</td>
+    <td class="xl71"></td>
    </tr>
    <tr height="29" style='height:14.50pt;'>
     <td height="29" style='height:14.50pt;'></td>
-    <td class="xl73"></td>
-    <td class="xl70" colspan="3" style='mso-ignore:colspan;'></td>
-    <td class="xl68"></td>
-    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
-    <td class="xl68"></td>
-    <td class="xl70"></td>
     <td class="xl74"></td>
-    <td class="xl68" colspan="15" style='mso-ignore:colspan;'></td>
-    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl75" colspan="3" style='mso-ignore:colspan;'></td>
+    <td class="xl76"></td>
+    <td class="xl75" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl76"></td>
+    <td class="xl75"></td>
+    <td class="xl77"></td>
+    <td class="xl76" colspan="15" style='mso-ignore:colspan;'></td>
+    <td class="xl75"></td>
    </tr>
    <![if supportMisalignedColumns]>
     <tr width="0" style='display:none;'>
-     <td width="130" style='width:65;'></td>
-     <td width="50" style='width:25;'></td>
-     <td width="138" style='width:69;'></td>
-     <td width="72" style='width:36;'></td>
-     <td width="83" style='width:41;'></td>
-     <td width="173" style='width:86;'></td>
-     <td width="161" style='width:81;'></td>
-     <td width="72" style='width:36;'></td>
-     <td width="50" style='width:25;'></td>
-     <td width="67" style='width:34;'></td>
-     <td width="50" style='width:25;'></td>
-     <td width="39" style='width:19;'></td>
-     <td width="72" style='width:36;'></td>
-     <td width="47" style='width:24;'></td>
-     <td width="50" style='width:25;'></td>
-     <td width="61" style='width:30;'></td>
-     <td width="50" style='width:25;'></td>
-     <td width="61" style='width:30;'></td>
-     <td width="50" style='width:25;'></td>
-     <td width="39" style='width:19;'></td>
-     <td width="72" style='width:36;'></td>
+     <td width="96" style='width:48;'></td>
+     <td width="136" style='width:68;'></td>
+     <td width="52" style='width:26;'></td>
+     <td width="145" style='width:72;'></td>
+     <td width="75" style='width:37;'></td>
+     <td width="86" style='width:43;'></td>
+     <td width="181" style='width:90;'></td>
+     <td width="169" style='width:84;'></td>
+     <td width="75" style='width:37;'></td>
+     <td width="52" style='width:26;'></td>
+     <td width="70" style='width:35;'></td>
+     <td width="52" style='width:26;'></td>
+     <td width="40" style='width:20;'></td>
+     <td width="75" style='width:37;'></td>
+     <td width="49" style='width:25;'></td>
+     <td width="52" style='width:26;'></td>
+     <td width="63" style='width:32;'></td>
+     <td width="52" style='width:26;'></td>
+     <td width="63" style='width:32;'></td>
+     <td width="52" style='width:26;'></td>
+     <td width="40" style='width:20;'></td>
+     <td width="75" style='width:37;'></td>
     </tr>
    <![endif]>
   </table>
